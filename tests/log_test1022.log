@@ -1,0 +1,90 @@
+2024-10-17 16:07:09,433 - __main__ - ########################################################################
+2024-10-17 16:07:09,433 - __main__ - Minion Deployment Handler called
+2024-10-17 16:07:09,434 - __main__ - ########################################################################
+2024-10-17 16:07:09,449 - __main__ - Minion configuration file loaded!
+2024-10-17 16:07:10,313 - minion_tools - [ Connecting to Hub2 ]
+2024-10-17 16:07:10,314 - __main__ - Minion started but Wifi connected. Standby
+2024-10-17 16:07:41,569 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-17 16:07:41,574 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-17 16:07:41,575 - minion_hat_gpio - Cleaning up GPIO resources.
+2024-10-17 16:09:31,682 - __main__ - ########################################################################
+2024-10-17 16:09:31,683 - __main__ - Minion Deployment Handler called
+2024-10-17 16:09:31,683 - __main__ - ########################################################################
+2024-10-17 16:09:31,708 - __main__ - Minion configuration file loaded!
+2024-10-17 16:09:32,574 - minion_tools - [ Connecting to Hub2 ]
+2024-10-17 16:09:32,575 - __main__ - Minion started but Wifi connected. Standby
+2024-10-17 16:09:42,577 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-17 16:09:42,578 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-17 16:09:42,579 - minion_hat_gpio - Cleaning up GPIO resources.
+2024-10-21 18:31:33,385 - __main__ - ########################################################################
+2024-10-21 18:31:33,386 - __main__ - Minion Deployment Handler called
+2024-10-21 18:31:33,387 - __main__ - ########################################################################
+2024-10-21 18:31:33,404 - __main__ - Minion configuration file loaded!
+2024-10-21 18:31:34,317 - minion_tools - [ No WIFI found. ]
+2024-10-21 18:31:34,708 - picamera2.picamera2 - Initialization successful.
+2024-10-21 18:31:34,709 - picamera2.picamera2 - Camera now open.
+2024-10-21 18:31:34,725 - picamera2.picamera2 - Camera configuration has been adjusted!
+2024-10-21 18:31:34,736 - picamera2.picamera2 - Configuration successful!
+2024-10-21 18:31:34,961 - picamera2.picamera2 - Camera started
+2024-10-21 18:31:35,964 - minion_camera - Capture pic [auto] .jpg at 20241021_223135.962
+2024-10-21 18:31:36,865 - picamera2.request - Saved <picamera2.request.Helpers object at 0x7f65e91590> to file /home/minion/test_imgs/auto/2024-10-21_17-31-23.jpg.
+2024-10-21 18:31:36,865 - picamera2.request - Time taken for encode: 503.34647899944684 ms.
+2024-10-21 18:31:37,056 - picamera2.picamera2 - Camera stopped
+2024-10-21 18:31:37,075 - picamera2.picamera2 - Camera configuration has been adjusted!
+2024-10-21 18:31:37,091 - picamera2.picamera2 - Configuration successful!
+2024-10-21 18:31:37,147 - picamera2.picamera2 - Camera started
+2024-10-21 18:31:38,149 - minion_camera - Capture pic [pic01] .jpg at 20241021_223138.148
+2024-10-21 18:31:38,827 - picamera2.request - Saved <picamera2.request.Helpers object at 0x7f65e91590> to file /home/minion/test_imgs/pic01/2024-10-21_17-31-25.jpg.
+2024-10-21 18:31:38,828 - picamera2.request - Time taken for encode: 319.2266180012666 ms.
+2024-10-21 18:31:39,007 - picamera2.picamera2 - Camera stopped
+2024-10-21 18:31:39,421 - picamera2.picamera2 - Camera closed successfully.
+2024-10-21 18:31:39,422 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-21 18:31:39,422 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-21 18:31:39,422 - minion_hat_gpio - Cleaning up GPIO resources.
+2024-10-21 18:46:53,433 - __main__ - ########################################################################
+2024-10-21 18:46:53,434 - __main__ - Minion Deployment Handler called
+2024-10-21 18:46:53,434 - __main__ - ########################################################################
+2024-10-21 18:46:53,451 - __main__ - Minion configuration file loaded!
+2024-10-21 18:46:54,323 - minion_tools - [ No WIFI found. ]
+2024-10-21 18:46:54,519 - picamera2.picamera2 - Initialization successful.
+2024-10-21 18:46:54,520 - picamera2.picamera2 - Camera now open.
+2024-10-21 18:46:54,723 - picamera2.picamera2 - Camera closed successfully.
+2024-10-21 18:46:54,724 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-21 18:46:54,724 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-21 18:46:54,724 - minion_hat_gpio - Cleaning up GPIO resources.
+2024-10-21 18:47:29,271 - __main__ - ########################################################################
+2024-10-21 18:47:29,272 - __main__ - Minion Deployment Handler called
+2024-10-21 18:47:29,272 - __main__ - ########################################################################
+2024-10-21 18:47:29,289 - __main__ - Minion configuration file loaded!
+2024-10-21 18:47:30,149 - minion_tools - [ No WIFI found. ]
+2024-10-21 18:47:30,232 - picamera2.picamera2 - Initialization successful.
+2024-10-21 18:47:30,233 - picamera2.picamera2 - Camera now open.
+2024-10-21 18:47:30,248 - picamera2.picamera2 - Camera configuration has been adjusted!
+2024-10-21 18:47:30,255 - picamera2.picamera2 - Configuration successful!
+2024-10-21 18:47:30,399 - picamera2.picamera2 - Camera started
+2024-10-21 18:47:31,401 - minion_camera - Capture pic [auto] .jpg at 20241021_224731.400
+2024-10-21 18:47:33,241 - picamera2.request - Saved <picamera2.request.Helpers object at 0x7f86918050> to file /home/minion/test_imgs/auto/2024-10-21_17-47-18.jpg.
+2024-10-21 18:47:33,242 - picamera2.request - Time taken for encode: 1022.33368099769 ms.
+2024-10-21 18:47:33,391 - picamera2.picamera2 - Camera stopped
+2024-10-21 18:47:33,812 - picamera2.picamera2 - Camera closed successfully.
+2024-10-21 18:47:33,813 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-21 18:47:33,813 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-21 18:47:33,813 - minion_hat_gpio - Cleaning up GPIO resources.
+2024-10-21 18:55:51,573 - __main__ - ########################################################################
+2024-10-21 18:55:51,573 - __main__ - Minion Deployment Handler called
+2024-10-21 18:55:51,580 - __main__ - ########################################################################
+2024-10-21 18:55:51,602 - __main__ - Minion configuration file loaded!
+2024-10-21 18:55:52,480 - minion_tools - [ No WIFI found. ]
+2024-10-21 18:55:52,677 - picamera2.picamera2 - Initialization successful.
+2024-10-21 18:55:52,677 - picamera2.picamera2 - Camera now open.
+2024-10-21 18:55:52,692 - picamera2.picamera2 - Camera configuration has been adjusted!
+2024-10-21 18:55:52,697 - picamera2.picamera2 - Configuration successful!
+2024-10-21 18:55:52,828 - picamera2.picamera2 - Camera started
+2024-10-21 18:55:53,830 - minion_camera - Capture pic [auto] .jpg at 20241021_225553.829
+2024-10-21 18:55:54,769 - picamera2.request - Saved <picamera2.request.Helpers object at 0x7f86bd2690> to file /home/minion/test_imgs/auto/2024-10-21_17-55-40.jpg.
+2024-10-21 18:55:54,770 - picamera2.request - Time taken for encode: 458.9777380024316 ms.
+2024-10-21 18:55:54,922 - picamera2.picamera2 - Camera stopped
+2024-10-21 18:55:55,345 - picamera2.picamera2 - Camera closed successfully.
+2024-10-21 18:55:55,345 - minion_hat_gpio - Shutting down: Closing LED ring thread.
+2024-10-21 18:55:55,346 - minion_hat_gpio - Shutting down: Turning off serial port power for oxygen sensor.
+2024-10-21 18:55:55,346 - minion_hat_gpio - Cleaning up GPIO resources.
